@@ -1,0 +1,23 @@
+<html>
+<head><title>THIS IS CHAPTER 2</title></head>
+<body bgcolor="papayawhip">
+<table>
+<tr>
+<td><src img="454738490_1264972608183259_3318907236965450129_n.jpeg" alt="no classes/suspended mid class"></td>
+<td align="left">This picture was taken during our Science class which was unexpectedly cut because of the suspenion due to the smog thats released from the eruption of the taal volcano.</td>
+</tr>
+<tr>
+<td><src img="451090677_504437558745085_1331808985656495650_n.jpeg" alt="esp tableu"></td>
+<td align="left"> This picture was taken during our ESP class to show our future jobs when we grow up.</td>
+</tr>
+<tr>
+<td align="center"><img src="459320347_1268072460885180_6723510318925522552_n.jpg></td>
+<td align="left">This picture was taken in our mapeh class while performance task in officiating our volleyball game.</td>
+</tr>
+</table>
+<h2> This is a sample video of our MAPEH MV </h2>
+<video width"450" height="250" controls>
+<source src="10000000_8266732230081541_1136031166332344457_n.mp4" type="video/mp4">
+</video>
+</body>
+</html>
